@@ -8,7 +8,7 @@
  }
 
  function esconderform(){
-  form.style.left = "-16%"
+  form.style.left = "-55%"
   form.style.transform = "translateX(0)"
   mascara.style.visibility = "hidden"
 
